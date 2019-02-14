@@ -4,7 +4,7 @@
     "description": "MQTTNode",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ikitchen/MQTTNode"
+        "url": "https://github.com/ikitchen/MQTTNode.git"
     },
     "frameworks": "arduino",
     "platforms": "espressif8266",
