@@ -17,8 +17,8 @@
             "platforms": "espressif8266"
         },
         {
-            "name": "WiFiManager",
-            "url": "https://github.com/tzapu/WiFiManager.git",
+            "name": "WifiManager",
+            "url": "https://github.com/tzapu/WifiManager.git",
             "version": "~0.14",
             "platforms": "espressif8266"
         },
