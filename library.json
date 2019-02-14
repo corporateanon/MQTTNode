@@ -12,8 +12,20 @@
     "dependencies": [
         {
             "name": "MQTT",
-            "url": "https://github.com/256dpi/arduino-mqtt",
+            "url": "https://github.com/256dpi/arduino-mqtt.git",
             "version": "~2.4.3",
+            "platforms": "espressif8266"
+        },
+        {
+            "name": "WiFiManager",
+            "url": "https://github.com/tzapu/WiFiManager.git",
+            "version": "~0.14",
+            "platforms": "espressif8266"
+        },
+        {
+            "name": "ArduinoJson",
+            "url": "https://github.com/bblanchon/ArduinoJson.git",
+            "version": "~5.13.4",
             "platforms": "espressif8266"
         }
     ]
